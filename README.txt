@@ -1,0 +1,14 @@
+EasyMCU-LM35-Library
+This is a library for lm35 temperature sensor
+This sensor have an analog output. So for capture temp data, one ADC(analog to digital) channel will be needed.
+
+>> http://easymcu.ir
+
+Check above link for our tutorials and wiring diagrams
+
+Written by Morteza Zandi for EasyMCU.
+BSD license, All text above must be included in any redistribution.
+
+To download. click the DOWNLOAD ZIP button. Check that the downloaded folder contains .cpp and .h files.
+Place the content (*.h + *.cpp) downloaded library folder @ ./module_libraries/ Directory (that is next to EasyMCU app).
+Restart the EasyMCU app. it is visible in library tab of EasyMCU app now.
