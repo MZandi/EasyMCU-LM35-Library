@@ -1,6 +1,5 @@
 # EasyMCU-LM35-Library
-> #### A powerful but easy to use LM35 Library
-> ###### This is a library for LM35 temperature sensor
+> #### This is a library for lm35 temperature sensor
 
 This sensor have an analog output.
 So for capture temp data, one ADC(analog to digital) channel will be needed.
