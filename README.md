@@ -1,5 +1,5 @@
 # EasyMCU-LM35-Library
-> #### A powerful but easy to use LM35 Library :+1:
+> ### A powerful but easy to use LM35 Library
 > This is a library for LM35 temperature sensor
 
 This sensor have an analog output.
