@@ -12,8 +12,7 @@
 #define __LM35_HPP__
 
 
-#include "adc.h"
-extern ADC adc;
+#include "common_func.h"
 
 #define CELCIUS  			1
 #define FAHRENHEIGHT  0
